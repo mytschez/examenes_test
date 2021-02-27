@@ -1,5 +1,5 @@
 # examenes_test
-Formulario para realizar un examen tipo test con preguntas seleccionadas de una batería de preguntas que tenemos en una base de datos.El formulario ha de permitir realizar de forma independiente un examen con preguntas seleccio
+Formulario para realizar un examen tipo test con preguntas seleccionadas de una batería que tenemos en una base de datos.
 
 La aplicación ha de perimitir iniciar un nuevo examen , seleccionando  el nombre del alumno, la cantidad de preguntas y la duración del examen.
 
